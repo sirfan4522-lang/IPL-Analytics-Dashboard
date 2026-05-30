@@ -6,6 +6,12 @@ This Power BI IPL Analytics Dashboard provides comprehensive insights into India
 
 ---
 
+## Project Objective
+
+To analyze IPL seasons from 2008–2025 and provide interactive insights into team performance, player achievements, championship history, and season-wise trends using Power BI.
+
+---
+
 ## Key Features
 
 - Season-wise IPL Analysis (2008–2025)
@@ -77,12 +83,22 @@ This Power BI IPL Analytics Dashboard provides comprehensive insights into India
 ## Business Insights
 
 - Mumbai Indians established themselves as one of the most successful IPL teams, securing multiple championship victories across seasons.
-- Chennai Super Kings (CSK) and Kolkata Knight Riders (KKR) consistently emerged as top-performing franchises, regularly qualifying for playoffs and competing for titles.
+- Chennai Super Kings (CSK) and Kolkata Knight Riders (KKR) have been among the most dominant IPL franchises, consistently qualifying for playoffs and winning multiple championships.
 - The 2025 season saw Royal Challengers Bangalore (RCB) win their maiden IPL championship, while Punjab Kings finished as runners-up.
 - Total sixes and half-centuries increased significantly in recent seasons, reflecting the evolution of aggressive T20 batting strategies.
 - Gujarat Titans produced standout individual performances in 2025, with Sai Sudharsan winning the Orange Cap and Prasidh Krishna claiming the Purple Cap.
 - The expansion from 8 to 10 teams increased competition, match volume, and opportunities for emerging talent.
 - Season-wise analysis enables comparison of champions, top performers, points tables, and batting/bowling trends from 2008–2025.
+
+---
+
+## Future Enhancements
+
+- Player vs Player comparison
+- Team performance trend analysis
+- Venue-wise performance insights
+- Head-to-head team comparison
+- Advanced batting and bowling metrics
 
 ---
 
