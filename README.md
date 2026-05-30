@@ -34,9 +34,7 @@ This Power BI IPL Analytics Dashboard provides comprehensive insights into India
 ## Dashboard Preview
 
 ### Season Dashboard
-![IPL Dashboard](ipl_ad1.png)
 
-### Additional Dashboard Views
 ![IPL Dashboard](ipl_ad2.png)
 
 ![IPL Dashboard](ipl_ad3.png)
